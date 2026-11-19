@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Analysis code and derived results for the within-target ranking study"
+message: "If you use this code or the deposited data, please cite the article."
+type: software
+version: "1.0.0"
+date-released: "2026-11-18"
+repository-code: "https://github.com/lgcovizzi/within-target-ranking"
+authors:
+  - family-names: Covizzi
+    given-names: Luiz Gustavo
+    orcid: https://orcid.org/0000-0002-0469-5423
+    affiliation: Universidade Federal do Paraná
+  - family-names: Nakaema
+    given-names: Marcelo
+    orcid: https://orcid.org/0009-0000-7208-0079
+    affiliation: Universidade Federal do Rio Grande do Norte
+license: MIT
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24355999
+    description: Data deposit, version 2 (concept DOI 10.5281/zenodo.24348102)
